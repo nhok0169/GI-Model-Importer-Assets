@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "50e8816e",
+        "draw_vb": "d90dae49",
         "position_vb": "348e58c4",
         "blend_vb": "e5fe748c",
         "texcoord_vb": "1b2f9d1b",
-        "ib": "05729218",
+        "ib": "3da6f8c7",
         "object_indexes": [
             0,
             13077,
@@ -22,7 +22,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "3de99d18"
+                    "2f08071a"
                 ],
                 [
                     "Diffuse",
@@ -33,18 +33,13 @@
                     "LightMap",
                     ".dds",
                     "2d25bfac"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
                 [
                     "NormalMap",
                     ".dds",
-                    "37e64152"
+                    "2f08071a"
                 ],
                 [
                     "Diffuse",
@@ -55,18 +50,13 @@
                     "LightMap",
                     ".dds",
                     "3227b0da"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
                 [
                     "NormalMap",
                     ".dds",
-                    "3de99d18"
+                    "2f08071a"
                 ],
                 [
                     "Diffuse",
@@ -77,18 +67,13 @@
                     "LightMap",
                     ".dds",
                     "2d25bfac"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
-        ],
-        "first_vs": "336e7cb184bcdb44"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -103,27 +88,11 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "b21bdf4c"
-                ],
-                [
                     "Diffuse",
                     ".dds",
-                    "000048-ps-t1"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "3f396398"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
+                    "b21bdf4c"
                 ]
             ]
-        ],
-        "first_vs": "e81202ab08e127e2"
+        ]
     }
 ]

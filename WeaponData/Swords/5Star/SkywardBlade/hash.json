@@ -1,6 +1,7 @@
 [
     {
         "component_name": "",
+        "root_vs": "",
         "draw_vb": "65914967",
         "position_vb": "65914967",
         "blend_vb": "",
@@ -25,16 +26,6 @@
                     "LightMap",
                     ".dds",
                     "66fd3d48"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "59cd2559"
                 ]
             ],
             [
@@ -44,7 +35,6 @@
                     "437a46a7"
                 ]
             ]
-        ],
-        "first_vs": "03226e85691bd4ce"
+        ]
     }
 ]

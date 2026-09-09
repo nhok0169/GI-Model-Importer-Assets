@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "0f07748b",
+        "draw_vb": "86e25bac",
         "position_vb": "2a2a63ab",
         "blend_vb": "b0c49997",
         "texcoord_vb": "1339b941",
-        "ib": "3c46fe49",
+        "ib": "04929496",
         "object_indexes": [
             0,
             22941
@@ -20,7 +20,7 @@
                 [
                     "NormalMap",
                     ".dds",
-                    "6913b9d4"
+                    "0da6497d"
                 ],
                 [
                     "Diffuse",
@@ -31,18 +31,13 @@
                     "LightMap",
                     ".dds",
                     "24463c26"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ],
             [
                 [
                     "NormalMap",
                     ".dds",
-                    "db3491eb"
+                    "0da6497d"
                 ],
                 [
                     "Diffuse",
@@ -53,18 +48,13 @@
                     "LightMap",
                     ".dds",
                     "6cd41bdb"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
                 ]
             ]
-        ],
-        "first_vs": "336e7cb184bcdb44"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -79,22 +69,11 @@
         "texture_hashes": [
             [
                 [
-                    "NormalMap",
-                    ".dds",
-                    "2021c2b9"
-                ],
-                [
                     "Diffuse",
                     ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "380a1467"
+                    "2021c2b9"
                 ]
             ]
-        ],
-        "first_vs": "e81202ab08e127e2"
+        ]
     }
 ]

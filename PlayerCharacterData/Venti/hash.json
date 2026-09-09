@@ -2,11 +2,11 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "5c8b4993",
-        "position_vb": "635466ca",
-        "blend_vb": "fd47c861",
-        "texcoord_vb": "bf8270d3",
-        "ib": "c314953e",
+        "draw_vb": "0d36f587",
+        "position_vb": "09a91a5c",
+        "blend_vb": "a6823bb3",
+        "texcoord_vb": "6568ac68",
+        "ib": "1afcf31d",
         "object_indexes": [
             0,
             7419
@@ -26,11 +26,6 @@
                     "LightMap",
                     ".dds",
                     "cb3ce8ab"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ],
             [
@@ -43,23 +38,13 @@
                     "LightMap",
                     ".dds",
                     "74860ccc"
-                ],
-                [
-                    "MetalMap",
-                    ".dds",
-                    "b0e08915"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ]
-        ],
-        "first_vs": "b4ce2fa5c51c259e"
+        ]
     },
     {
         "component_name": "Face",
+        "root_vs": "",
         "draw_vb": "",
         "position_vb": "",
         "blend_vb": "",
@@ -77,24 +62,8 @@
                     "Diffuse",
                     ".dds",
                     "841b5b0c"
-                ],
-                [
-                    "LightMap",
-                    ".dds",
-                    "4e3376db"
-                ],
-                [
-                    "Shadow",
-                    ".dds",
-                    "3f396398"
-                ],
-                [
-                    "ShadowRamp",
-                    ".jpg",
-                    "7eb5b84e"
                 ]
             ]
-        ],
-        "first_vs": "cbe73ac3f69130d6"
+        ]
     }
 ]
